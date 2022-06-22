@@ -7,7 +7,7 @@ charset-normalizer==2.0.7
 cryptography==35.0.0
 h11==0.12.0
 idna==3.3
-numpy==1.21.3
+numpy==1.22.0
 outcome==1.1.0
 Pillow==9.0.1
 psutil==5.8.0
